@@ -5,7 +5,7 @@
     padding: 0px;
 }
 body{
-    background-image: url("./Images/pexels-moose-photos-1037995.jpg");
+    background-image: url("pexels-moose-photos-1037995.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -20,7 +20,8 @@ body{
     background: rgba(125,123,125,0.4);
     padding: 10px;
 }
-.header{   background:rgb(204,255,255,0.6);
+.header{
+    background:rgb(204,255,255,0.6);
 border: 1px solid black;}
 .header{
     font-size: 50px;
